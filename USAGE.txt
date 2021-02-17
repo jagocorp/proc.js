@@ -1,0 +1,3 @@
+<!-- note to self: use in all html headers -->
+<script src="https://raw.githubusercontent.com/jagocorp/proc.js/main/proc.min.js" crossorigin="anonymous"></script>
+<script>window.LogRocket && window.LogRocket.init('jago-corp/procjs');</script>
